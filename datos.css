@@ -1,0 +1,42 @@
+.flexbox{
+display: flex;
+border: #FD0509;
+background-color:blue;
+padding: 20px;
+width: 100%;
+}
+#Esteban{
+padding: 20px;
+margin: 10px;
+background-color:aqua;
+}
+#rosado{
+padding: 20px;
+margin: 10px;
+background-color: pink;
+}
+#Alexander{
+padding: 20px;
+margin: 10px;
+background-color:brown;
+}
+#Diego{
+padding: 20px;
+margin: 10px;
+background-color:chartreuse;
+}
+#Francisco{
+padding: 20px;
+margin: 10px;
+background-color:aquamarine;
+}
+#Jose{
+padding: 20px;
+margin: 10px;
+background-color:chocolate;
+}
+#Paulo{
+padding: 20px;
+margin: 10px;
+background-color:cadetblue;
+}

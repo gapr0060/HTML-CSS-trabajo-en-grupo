@@ -1,0 +1,37 @@
+.flexbox{
+	display:flex;
+	border: #C5B3B3;
+	background-color: darkblue;
+	padding: 10px;
+	width: 100%;
+}
+#Esteban{
+	padding: 20px;
+	margin: 10px;
+	background-color:brown;
+}
+#Alexander{
+	padding: 20px;
+	margin: 10px;
+	background-color:dodgerblue;
+}
+#Diego{
+	padding: 20px;
+	margin: 10px;
+	background-color:coral;
+}
+#francisco{
+	padding: 20px;
+	margin: 10px;
+	background-color:darkorange;
+}
+#Jose{
+	padding: 20px;
+	margin: 10px;
+	background-color:deeppink;
+}
+#paulo{
+	padding: 20px;
+	margin: 10px;
+	background-color:aqua;
+}
